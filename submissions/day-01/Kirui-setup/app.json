@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Kirui-setup",
-    "slug": "Kirui-setup",
+    "name": "kirui-setup",
+    "slug": "kirui-setup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
